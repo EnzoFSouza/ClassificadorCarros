@@ -45,13 +45,13 @@ Abaixo estão exemplos de imagens classificadas corretamente pelo modelo, com vi
 
 ## 📂 Estrutura do Projeto
 
-├── train.py #Treinamento da CNN e geração das métricas
+├── train.py
 
-├── predict.py #Inferência utilizando modelo treinado
+├── predict.py
 
-├── modelo_cnn_bflp.keras #Modelo treinado salvo
+├── modelo_cnn_bflp.keras
 
-├── classes_carros.json #Mapeamento das classes
+├── classes_carros.json
 
 ├── loss.png
 
